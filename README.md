@@ -1,0 +1,1 @@
+# aimeos-typo3-installer
